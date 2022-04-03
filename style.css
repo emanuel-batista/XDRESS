@@ -1,0 +1,29 @@
+.logo{
+    background-color: #efcfff;
+    text-align: center;
+    height: 6vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#navzinha{
+    height: 4vh;
+}
+
+/**.navbar-brand{
+    position: relative;
+
+    margin-top: 90px;
+    padding-top: 40px;  
+    margin-top: 50px;
+    vertical-align: middle;
+    background-color: black;
+}
+
+**/
+
+.error{
+    color: red;
+    text-align: center;
+}
